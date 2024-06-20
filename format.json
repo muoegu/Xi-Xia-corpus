@@ -1,10 +1,9 @@
 {
     "corpus_data": [
         {
-            "id": "0316b1",
+            "id": "0346b9",
             "metadata": {
-                "meaning": "其慎言有至於三復，則三思而後行，",
-                "memo": "(季文子三思而後行。子聞之曰:「再斯可矣。」)(文子於國則忠,於家則儉。其逐紀太子以不忠孝,責韓穿以非信義。內無衣帛之妾,外無食粟之馬。金玉非所藏,寶器非所重。魯君以為社稷之臣,而存亡之所係,則其所舉固寡過矣,然猶三思而後行。故孔子言再斯可矣。古之人,其謹身有至於三省,)其慎言有至於三復,則三思而後行"
+                "meaning": "其慎言有至於三復，則三思而後行，"
             },
             "text": [
                 {
@@ -30,14 +29,14 @@
                 {
                     "unicode": "4310",
                     "character": "𗋕",
-                    "pronunciation": "thja1",
-                    "chinese": "其"
+                    "pronunciation": "tha4",
+                    "chinese": "不"
                 },
                 {
                     "unicode": "0451",
                     "character": "𗟲",
-                    "pronunciation": "ŋwuu1",
-                    "chinese": "言"
+                    "pronunciation": "ŋsdju2",
+                    "chinese": "為"
                 }
             ]
         }

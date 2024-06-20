@@ -1,0 +1,36 @@
+{
+    "corpus_data": [
+        {
+            "id": "0316b1",
+            "metadata": {
+                "meaning": "其慎言有至於三復，則三思而後行 ，"
+            },
+            "text": [
+                {
+                    "unicode": "4310",
+                    "character": "𗋕",
+                    "pronunciation": "thja1",
+                    "chinese": "其"
+                },
+                {
+                    "unicode": "451",
+                    "character": "𗟲",
+                    "pronunciation": "ŋwuu1",
+                    "chinese": "言"
+                },
+                {
+                    "unicode": "3893",
+                    "character": "𗧗",
+                    "pronunciation": "tśhjwɨj1",
+                    "chinese": "慎"
+                },
+                {
+                    "unicode": "1175",
+                    "character": "𗡶",
+                    "pronunciation": "śjij1",
+                    "chinese": "法；"
+                }
+            ]
+        }
+    ]
+}
