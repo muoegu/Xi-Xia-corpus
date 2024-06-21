@@ -6,7 +6,7 @@ st.title("西夏語料庫")
 st.write("This is a simple corpus of 西夏 language.")
 
 # 論語全解
-with open('../test.json', 'r', encoding='utf-8') as file:
+with open('論語全解.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 
