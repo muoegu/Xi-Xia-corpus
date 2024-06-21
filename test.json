@@ -1,0 +1,556 @@
+{
+    "corpus_data": [
+        {
+            "id": "0316b1",
+            "metadata": {
+                "meaning": "其慎言有至於三復，則三思而後行 ，"
+            },
+            "text": [
+                {
+                    "unicode": "4310",
+                    "character": "𗋕",
+                    "pronunciation": "thja1",
+                    "chinese": "其"
+                },
+                {
+                    "unicode": "451",
+                    "character": "𗟲",
+                    "pronunciation": "ŋwuu1",
+                    "chinese": "言"
+                },
+                {
+                    "unicode": "3893",
+                    "character": "𗧗",
+                    "pronunciation": "tśhjwɨj1",
+                    "chinese": "慎"
+                },
+                {
+                    "unicode": "1175",
+                    "character": "𗡶",
+                    "pronunciation": "śjij1",
+                    "chinese": "法；"
+                },
+                {
+                    "unicode": "1718",
+                    "character": "𘕕",
+                    "pronunciation": "sọ1",
+                    "chinese": "三"
+                },
+                {
+                    "unicode": "5187",
+                    "character": "𘆏",
+                    "pronunciation": "ljɨɨ1",
+                    "chinese": "復 "
+                },
+                {
+                    "unicode": "1763",
+                    "character": "𘕿",
+                    "pronunciation": "ɣa2",
+                    "chinese": "於"
+                },
+                {
+                    "unicode": "3671",
+                    "character": "𗫡",
+                    "pronunciation": "njɨ2",
+                    "chinese": "至， "
+                },
+                {
+                    "unicode": "4918",
+                    "character": "𘟣",
+                    "pronunciation": "dju1",
+                    "chinese": "有。"
+                },
+                {
+                    "unicode": "2214",
+                    "character": "𘌽",
+                    "pronunciation": "thjɨ2",
+                    "chinese": "此 "
+                },
+                {
+                    "unicode": "1718",
+                    "character": "𘕕",
+                    "pronunciation": "sọ1",
+                    "chinese": "{三"
+                },
+                {
+                    "unicode": "5662",
+                    "character": "𗾫",
+                    "pronunciation": "sjiij2",
+                    "chinese": "思"
+                },
+                {
+                    "unicode": "4250",
+                    "character": "𗋸",
+                    "pronunciation": "mja1",
+                    "chinese": "而　後"
+                },
+                {
+                    "unicode": "1427",
+                    "character": "𗅉",
+                    "pronunciation": "nioow1",
+                    "chinese": ""
+                },
+                {
+                    "unicode": "2977",
+                    "character": "𗭍",
+                    "pronunciation": "dźjịj1",
+                    "chinese": "行}"
+                },
+                {
+                    "unicode": "3612",
+                    "character": "𗫂",
+                    "pronunciation": "tja1",
+                    "chinese": "者，"
+                }
+            ]
+        },
+        {
+            "id": "0316b2",
+            "metadata": {
+                "meaning": "不為過矣。蓋有文子之質，再斯可矣。無文子"
+            },
+            "text": [
+                {
+                    "unicode": "4475",
+                    "character": "𗰛",
+                    "pronunciation": "dzjịj1",
+                    "chinese": "過"
+                },
+                {
+                    "unicode": "1491",
+                    "character": "𗅋",
+                    "pronunciation": "mji1",
+                    "chinese": "不"
+                },
+                {
+                    "unicode": "3384",
+                    "character": "𗨻",
+                    "pronunciation": "we2",
+                    "chinese": "為"
+                },
+                {
+                    "unicode": "2422",
+                    "character": "𘃞",
+                    "pronunciation": "ljɨ1",
+                    "chinese": "也。"
+                },
+                {
+                    "unicode": "2350",
+                    "character": "𘍞",
+                    "pronunciation": "·io1",
+                    "chinese": "蓋"
+                },
+                {
+                    "unicode": "3475",
+                    "character": "𗩇",
+                    "pronunciation": "wẹ̃1",
+                    "chinese": "[文]"
+                },
+                {
+                    "unicode": "1724",
+                    "character": "𘕘",
+                    "pronunciation": "tsə1",
+                    "chinese": "[子]"
+                },
+                {
+                    "unicode": "659",
+                    "character": "𗍊",
+                    "pronunciation": "sju2",
+                    "chinese": "如"
+                },
+                {
+                    "unicode": "455",
+                    "character": "𘓷",
+                    "pronunciation": "kwər1",
+                    "chinese": "質"
+                },
+                {
+                    "unicode": "5753",
+                    "character": "𗿷",
+                    "pronunciation": "dźjij2",
+                    "chinese": "有。"
+                },
+                {
+                    "unicode": "3927",
+                    "character": "𗫸",
+                    "pronunciation": "·jị2",
+                    "chinese": "再"
+                },
+                {
+                    "unicode": "4139",
+                    "character": "𗌭",
+                    "pronunciation": "ku1",
+                    "chinese": "則；"
+                },
+                {
+                    "unicode": "300",
+                    "character": "𗍿",
+                    "pronunciation": "lew1",
+                    "chinese": "可"
+                },
+                {
+                    "unicode": "2422",
+                    "character": "𘃞",
+                    "pronunciation": "ljɨ1",
+                    "chinese": "也。"
+                },
+                {
+                    "unicode": "3475",
+                    "character": "𗩇",
+                    "pronunciation": "wẹ̃1",
+                    "chinese": "[文]"
+                },
+                {
+                    "unicode": "1724",
+                    "character": "𘕘",
+                    "pronunciation": "tsə1",
+                    "chinese": "[子]"
+                }
+            ]
+        },
+        {
+            "id": "0316b3",
+            "metadata": {
+                "meaning": "之質，非三思則不可。孔子於三思則抑之，"
+            },
+            "text": [
+                {
+                    "unicode": "659",
+                    "character": "𗍊",
+                    "pronunciation": "sju2",
+                    "chinese": "如"
+                },
+                {
+                    "unicode": "455",
+                    "character": "𘓷",
+                    "pronunciation": "kwər1",
+                    "chinese": "質"
+                },
+                {
+                    "unicode": "3510",
+                    "character": "𗤋",
+                    "pronunciation": "mjij1",
+                    "chinese": "無。"
+                },
+                {
+                    "unicode": "1718",
+                    "character": "𘕕",
+                    "pronunciation": "sọ1",
+                    "chinese": "三"
+                },
+                {
+                    "unicode": "5662",
+                    "character": "𗾫",
+                    "pronunciation": "sjiij2",
+                    "chinese": "思"
+                },
+                {
+                    "unicode": "1348",
+                    "character": "𗅔",
+                    "pronunciation": "njaa2",
+                    "chinese": "非"
+                },
+                {
+                    "unicode": "4139",
+                    "character": "𗌭",
+                    "pronunciation": "ku1",
+                    "chinese": "則；"
+                },
+                {
+                    "unicode": "2530",
+                    "character": "𘖑",
+                    "pronunciation": "mjɨ1",
+                    "chinese": "不"
+                },
+                {
+                    "unicode": "300",
+                    "character": "𗍿",
+                    "pronunciation": "lew1",
+                    "chinese": "可。"
+                },
+                {
+                    "unicode": "5714",
+                    "character": "𗾖",
+                    "pronunciation": "goor1",
+                    "chinese": "孔　子"
+                },
+                {
+                    "unicode": "1086",
+                    "character": "𗸱",
+                    "pronunciation": "no2",
+                    "chinese": ""
+                },
+                {
+                    "unicode": "1718",
+                    "character": "𘕕",
+                    "pronunciation": "sọ1",
+                    "chinese": "三"
+                },
+                {
+                    "unicode": "5662",
+                    "character": "𗾫",
+                    "pronunciation": "sjiij2",
+                    "chinese": "思"
+                },
+                {
+                    "unicode": "2114",
+                    "character": "𘋩",
+                    "pronunciation": "do2",
+                    "chinese": "於"
+                },
+                {
+                    "unicode": "4139",
+                    "character": "𗌭",
+                    "pronunciation": "ku1",
+                    "chinese": "則，"
+                },
+                {
+                    "unicode": "5187",
+                    "character": "𘆏",
+                    "pronunciation": "ljɨɨ1",
+                    "chinese": "抑"
+                }
+            ]
+        },
+        {
+            "id": "0316b4",
+            "metadata": {
+                "meaning": "率爾 而對 則責之 ，因人而為之教"
+            },
+            "text": [
+                {
+                    "unicode": "2422",
+                    "character": "𘃞",
+                    "pronunciation": "ljɨ1",
+                    "chinese": "也。"
+                },
+                {
+                    "unicode": "3785",
+                    "character": "𗤺",
+                    "pronunciation": "lhjwɨ2",
+                    "chinese": "率"
+                },
+                {
+                    "unicode": "5343",
+                    "character": "𗳒",
+                    "pronunciation": "ŋwu2",
+                    "chinese": "以"
+                },
+                {
+                    "unicode": "4196",
+                    "character": "𗊬",
+                    "pronunciation": "kụ2",
+                    "chinese": "對"
+                },
+                {
+                    "unicode": "4139",
+                    "character": "𗌭",
+                    "pronunciation": "ku1",
+                    "chinese": "則；"
+                },
+                {
+                    "unicode": "1491",
+                    "character": "𗅋",
+                    "pronunciation": "mji1",
+                    "chinese": "不"
+                },
+                {
+                    "unicode": "5043",
+                    "character": "𘙡",
+                    "pronunciation": "źwe1",
+                    "chinese": "謙"
+                },
+                {
+                    "unicode": "5635",
+                    "character": "𘔼",
+                    "pronunciation": "nioow1",
+                    "chinese": "因；"
+                },
+                {
+                    "unicode": "4618",
+                    "character": "𗖣",
+                    "pronunciation": "źier1",
+                    "chinese": "責"
+                },
+                {
+                    "unicode": "2422",
+                    "character": "𘃞",
+                    "pronunciation": "ljɨ1",
+                    "chinese": "也。"
+                },
+                {
+                    "unicode": "2350",
+                    "character": "𘍞",
+                    "pronunciation": "·io1",
+                    "chinese": "蓋"
+                },
+                {
+                    "unicode": "4105",
+                    "character": "𘓐",
+                    "pronunciation": "dzjwo2",
+                    "chinese": "{人"
+                },
+                {
+                    "unicode": "4614",
+                    "character": "𗖵",
+                    "pronunciation": "bju1",
+                    "chinese": "因"
+                },
+                {
+                    "unicode": "4859",
+                    "character": "𘘝",
+                    "pronunciation": "dzjiij2",
+                    "chinese": "教"
+                },
+                {
+                    "unicode": "2413",
+                    "character": "𘃡",
+                    "pronunciation": "wji1",
+                    "chinese": "-DO}"
+                },
+                {
+                    "unicode": "1175",
+                    "character": "𗡶",
+                    "pronunciation": "śjij1",
+                    "chinese": "法 "
+                }
+            ]
+        },
+        {
+            "id": "0316b5",
+            "metadata": {
+                "meaning": "也。文子嘗曰：「備豫不虞［，古之善教也 ］。」三"
+            },
+            "text": [
+                {
+                    "unicode": "197",
+                    "character": "𘟂",
+                    "pronunciation": "ŋwu2",
+                    "chinese": "是。"
+                },
+                {
+                    "unicode": "3475",
+                    "character": "𗩇",
+                    "pronunciation": "wẹ̃1",
+                    "chinese": "[文]"
+                },
+                {
+                    "unicode": "1724",
+                    "character": "𘕘",
+                    "pronunciation": "tsə1",
+                    "chinese": "[子]"
+                },
+                {
+                    "unicode": "2777",
+                    "character": "𘎪",
+                    "pronunciation": "tshjiij1",
+                    "chinese": "言"
+                },
+                {
+                    "unicode": "5817",
+                    "character": "𗬬",
+                    "pronunciation": "djij2",
+                    "chinese": "嘗："
+                },
+                {
+                    "unicode": "3699",
+                    "character": "𗪘",
+                    "pronunciation": "sji1",
+                    "chinese": "「預　先 "
+                },
+                {
+                    "unicode": "1607",
+                    "character": "𗂥",
+                    "pronunciation": "njij2",
+                    "chinese": ""
+                },
+                {
+                    "unicode": "4882",
+                    "character": "𗱽",
+                    "pronunciation": "dzjɨ1",
+                    "chinese": "準　備，"
+                },
+                {
+                    "unicode": "4925",
+                    "character": "𘞹",
+                    "pronunciation": "djɨ2",
+                    "chinese": ""
+                },
+                {
+                    "unicode": "4612",
+                    "character": "𗖏",
+                    "pronunciation": "njwo2",
+                    "chinese": "古"
+                },
+                {
+                    "unicode": "3433",
+                    "character": "𗤀",
+                    "pronunciation": "śjij1",
+                    "chinese": "世"
+                },
+                {
+                    "unicode": "3849",
+                    "character": "𗩴",
+                    "pronunciation": "neew2",
+                    "chinese": "善"
+                },
+                {
+                    "unicode": "4859",
+                    "character": "𘘝",
+                    "pronunciation": "dzjiij2",
+                    "chinese": "教"
+                },
+                {
+                    "unicode": "197",
+                    "character": "𘟂",
+                    "pronunciation": "ŋwu2",
+                    "chinese": "COP」"
+                },
+                {
+                    "unicode": "4310",
+                    "character": "𗋕",
+                    "pronunciation": "thja1",
+                    "chinese": "其"
+                },
+                {
+                    "unicode": "1718",
+                    "character": "𘕕",
+                    "pronunciation": "sọ1",
+                    "chinese": "三"
+                }
+            ]
+        },
+        {
+            "id": "0316b6",
+            "metadata": {
+                "meaning": "思可知也。"
+            },
+            "text": [
+                {
+                    "unicode": "5662",
+                    "character": "𗾫",
+                    "pronunciation": "sjiij2",
+                    "chinese": "思"
+                },
+                {
+                    "unicode": "3612",
+                    "character": "𗫂",
+                    "pronunciation": "tja1",
+                    "chinese": "者，"
+                },
+                {
+                    "unicode": "5607",
+                    "character": "𗏴",
+                    "pronunciation": "dźju1",
+                    "chinese": "顯"
+                },
+                {
+                    "unicode": "2422",
+                    "character": "𘃞",
+                    "pronunciation": "ljɨ1",
+                    "chinese": "也。"
+                }
+            ]
+        }
+    ]
+}
